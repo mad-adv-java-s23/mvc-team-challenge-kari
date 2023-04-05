@@ -12,7 +12,7 @@ import java.io.IOException;
 public class DemoServlet extends HttpServlet {
 
     /**
-     * Handles HTTP GET requests.
+     * Handles HTTP GET requests. Add a comment
      *
      * @param request  the HttpServletRequest object
      * @param response the HttpServletResponse object
